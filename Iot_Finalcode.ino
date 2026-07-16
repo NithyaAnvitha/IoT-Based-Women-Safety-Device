@@ -6,8 +6,8 @@
 #include <SoftwareSerial.h>
 
 // WiFi credentials
-const char* ssid = "Redmi Note 10 Pro";
-const char* password = "cherry03";
+const char* ssid = "Username";
+const char* password = "Password";
 
 // Telegram Bot configuration
 #define BOT_TOKEN "Define your bot token here"
