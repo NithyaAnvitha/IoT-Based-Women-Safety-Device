@@ -10,8 +10,8 @@ const char* ssid = "Redmi Note 10 Pro";
 const char* password = "cherry03";
 
 // Telegram Bot configuration
-#define BOT_TOKEN "8070387489:AAEjhwuezSNoGN-TmPlz6MxjmDrYNsIeErc"
-#define CHAT_ID "-4883834093"
+#define BOT_TOKEN "Define your bot token here"
+#define CHAT_ID "Define your chat id here"
 
 // Firebase configuration
 #define FIREBASE_PROJECT_ID "women-safety-database-e6824"
